@@ -1,0 +1,41 @@
+.scoreboard{
+  
+  margin: 100px auto;
+  width: 50%;
+}
+
+.score-input{
+  
+  display: inline;
+  padding: 5px;
+  width: 45px;
+  margin: 0 10px;
+  text-align: center;
+}
+
+.score-table{
+  border-bottom: 2px solid #ddd;
+}
+
+.heading{
+  border-bottom: 2px solid #ddd;
+}
+
+.addBtn,.btnTimer{
+  margin-right: 10px;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+  margin:0 10px;
+}
+
+.spacer10px{
+  height: 10px;
+}
